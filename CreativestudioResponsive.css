@@ -1,13 +1,16 @@
 @media screen and (min-width:320px) and (max-width:730px)
 {
-    nav{
+    /* nav{
         height: auto;
         width: auto;
         padding: 20px;
     }
     nav ul{
         display: none;
-    }
+    } */
+     nav h1{
+        margin-left: 80px;
+     }
     .main1{
         height: auto;
         width: auto;
